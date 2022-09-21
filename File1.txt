@@ -1,2 +1,2 @@
 Hello!
-We are earning Git commands.
+We are earning Git commands
